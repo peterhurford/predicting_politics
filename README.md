@@ -2,7 +2,7 @@
 
 Various attempts to analyze US political forecasts.
 
-Also contains `polls.csv` a custom CSV of 25,779 US likely voter election polls spanning 1999-2020.
+Also contains `polls.csv` a custom CSV of 23,910 US likely voter election polls spanning 1999-2020.
 
 #### Data Sources
 
