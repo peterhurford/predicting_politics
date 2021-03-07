@@ -1,3 +1,9 @@
+## Predicting Politics
+
+Various attempts to analyze political forecasts.
+
+Also contains `polls.csv` a custom CSV of 30625 polls spanning 2000-2020.
+
 #### Data Sources
 
 `data/1976-2020-president.csv` from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX
