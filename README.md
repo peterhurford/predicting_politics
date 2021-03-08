@@ -4,6 +4,7 @@ Various attempts to analyze US political forecasts.
 
 Also contains `polls.csv` a custom CSV of 23,910 US likely voter election polls spanning 1999-2020.
 
+
 #### Data Sources
 
 `data/1976-2020-president.csv` from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX
